@@ -17,6 +17,7 @@ init_Mask	KEYWORD2
 init_Filt	KEYWORD2
 sendMsgBuf	KEYWORD2
 readMsgBuf	KEYWORD2
+readMsgBufID  KEYWORD2
 checkReceive	KEYWORD2
 checkError	KEYWORD2
 getCanId	KEYWORD2
